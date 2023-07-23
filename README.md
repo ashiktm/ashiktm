@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashiktm
-- 👀 I’m interested in ...WEB_DEVELOPING..DATA_ANALTICS
-- 🌱 I’m currently learning ...REACTJS
+- 👀 I’m interested in ...WEB_DEVELOPING..
+- 🌱 I’m currently working as Angular Developer
 - 💞️ I’m looking to collaborate on ...FRONTEND_DEVELOPING
 - 📫 How to reach me ...ashiktm.ind@gmail.com 
 
